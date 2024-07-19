@@ -1,7 +1,3 @@
-Here's a formatted version of your project report tailored as a README file for GitHub:
-
----
-
 # Mastering Python, Data Science, and Machine Learning
 
 ## Introduction
